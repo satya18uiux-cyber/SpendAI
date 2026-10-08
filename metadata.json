@@ -1,0 +1,6 @@
+{
+  "name": "SpendAI - AI Expense Tracker",
+  "description": "Modern mobile-first AI-powered personal expense tracker with receipt scanning, automated categorization, and intelligent spending insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
